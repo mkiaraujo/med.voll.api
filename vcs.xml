@@ -26,6 +26,10 @@
           <option name="url" value="http://bitbucket.org" />
           <option name="userName" value="mkiaraujo" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://repo.policia.df.gov.br/numeri/api/pessoa-consulta-sgpol.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\mauricio" />
